@@ -16,7 +16,7 @@ I'm Cecil Stroud, a CIS Networking student at Post University documenting my jou
 
 ## Current Goals
 
-- Complete my Bachelor of Science in Computer Information Systems (Networking)
+- Complete my Bachelor of Science in Computer Information Systems with a concentration in Networking
 - Build a professional technical portfolio
 - Earn industry certifications
 - Develop practical IT projects
@@ -25,5 +25,9 @@ I'm Cecil Stroud, a CIS Networking student at Post University documenting my jou
 ## Repositories
 
 More projects coming soon...
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/cecilstroudit
 
 Thanks for visiting!
